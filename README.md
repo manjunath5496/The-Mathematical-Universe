@@ -234,3 +234,15 @@
 </div>
 </div>
 <div class="reader-flag-content__wrapper mb4 clear-both" data-ember-action="" data-ember-action-1994="1994">&nbsp;</div>
+
+<h2> Books: </h2>
+
+<ul>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(1).pdf" style="text-decoration:none;">Handbook of Nuclear Chemistry</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(2).pdf" style="text-decoration:none;">Modern Nuclear Chemistry</a></b></li>
+                                <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(3).pdf" style="text-decoration:none;">Radiochemistry and Nuclear Chemistry</a></b></li>
+ <li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(4).pdf" style="text-decoration:none;">The Chemistry of Superheavy Elements </a></b></li>                              
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Nuclear-Chemistry-Books/blob/master/nc(5).pdf" style="text-decoration:none;">Nuclear Structure</a></b></li>
+                                
+ 
+ </ul>
